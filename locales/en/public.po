@@ -102,7 +102,7 @@ msgstr ""
 #_entry-full.html
 
 msgid "By"
-msgstr ""
+msgstr "by"
 
 msgid "on"
 msgstr ""

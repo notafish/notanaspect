@@ -246,6 +246,11 @@ td {
 }
 
 /* Definitions */
+
+dt {
+    font-variant: small-caps;
+}
+
 dd {
   margin: 0 0 1em 2em;
 }

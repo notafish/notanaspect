@@ -4,9 +4,9 @@ if (!defined('DC_RC_PATH')) {
 }
 
 $this->registerModule(
-    'Aspect', // Name
+    'notanAspect', // Name
     'A reader-focused theme built for bloggers, writers and journalists.', // Description
-    'Théodore', // Author
+    'Théodore', notafish // Author
     '3', // Version
     [
         'standalone_config' => true, // Allows a full control for the theme configurator.
